@@ -1246,3 +1246,4 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [jesse james johnson's Solution](https://github.com/pcfascist/pcfascist.github.io/tree/master/RPSLS) - [View in Browser](https://pcfascist.github.io/pcfascist.github.io/RPSLS/)
 - [Blake Hutchinson's Solution](https://github.com/tkdblake93/rock-paper-scissors)
 </details>
+- [Michael Doudy's Solution](https://github.com/mdoudy90/rock-paper-scissors) - [View in Browser](https://mdoudy90.github.io/rock-paper-scissors/)
